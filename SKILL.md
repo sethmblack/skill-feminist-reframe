@@ -4,7 +4,7 @@ description: Take conventional wisdom about women and flip it to reveal the doub
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.3996
+  version: 1.0.3997
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - feminism
